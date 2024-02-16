@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Sarhan Asakil
+- 👀 I’m interested in hip-hop music
+- 🌱 I’m currently learning vuejs
+- 💞️ I’m looking to collaborate 
+- 📫 How to reach me asakilsarhan@gmail.com
+- ⚡ Fun fact: I'm a fan of Lebron James
