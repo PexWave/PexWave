@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Sarhan Asakil and I'm a Software Developer from the Philippines.</h2>
+<h2 align="left">Hi 👋! My name is Sarhan Asakil and I'm a Software Developer from Philippines.</h2>
 
 ###
 
@@ -50,7 +50,7 @@
 ###
 
 <div align="left">
-  <a href=" https://www.instagram.com/han_rpx?igsh=cWltaWhsNGsydWUz" target="_blank">
+  <a href="https://www.instagram.com/han_rpx?igsh=cWltaWhsNGsydWUz" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
   <a href="https://discordapp.com/users/669882894587789358/" target="_blank">
