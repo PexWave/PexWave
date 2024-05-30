@@ -110,16 +110,5 @@
   <img height="200" src="https://i.imgflip.com/8s7mjz.gif"  />
 </div>
 
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/ridethewaves">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=ridethewaves&count=5" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/pexwave/pexwave/output/snake.svg" alt="Snake animation" />
 
 ###
