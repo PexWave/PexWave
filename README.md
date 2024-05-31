@@ -6,12 +6,6 @@
 
 ###
 
-<picture>
-  <source srcset="https://github.com/PexWave/PexWave/blob/output/github-contribution-grid-snake-dark.svg" />
-  <source srcset="https://github.com/PexWave/PexWave/blob/output/github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
-
 <h2 align="left">Languages:</h2>
 
 ###
@@ -22,6 +16,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
 </div>
 
 ###
@@ -36,6 +32,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="30" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="vuejs logo"  />
 </div>
 
 ###
@@ -109,6 +107,24 @@
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
   </a>
 </div>
+
+###
+
+<div align="center">
+  <img height="200" src="https://i.imgflip.com/8s7mjz.gif"  />
+</div>
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/ridethewaves">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=ridethewaves&count=5" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/pexwave/pexwave/output/snake.svg" alt="Snake animation" />
 
 ###
 
