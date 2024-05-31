@@ -6,6 +6,12 @@
 
 ###
 
+<picture>
+  <source srcset="https://github.com/PexWave/PexWave/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source srcset="https://github.com/PexWave/PexWave/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
+
 <h2 align="left">Languages:</h2>
 
 ###
@@ -112,14 +118,6 @@
 
 <div align="center">
   <img height="200" src="https://i.imgflip.com/8s7mjz.gif"  />
-</div>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/ridethewaves">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=ridethewaves&count=5" alt="Spotify recently played"  />
-  </a>
 </div>
 
 ###
