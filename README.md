@@ -6,12 +6,6 @@
 
 ###
 
-<picture>
-  <source srcset="https://github.com/PexWave/PexWave/blob/output/github-contribution-grid-snake-dark.svg" />
-  <source srcset="https://github.com/PexWave/PexWave/blob/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
-
 <h2 align="left">Languages:</h2>
 
 ###
@@ -120,6 +114,10 @@
   <img height="200" src="https://i.imgflip.com/8s7mjz.gif"  />
 </div>
 
-
+<picture>
+  <source srcset="https://github.com/PexWave/PexWave/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source srcset="https://github.com/PexWave/PexWave/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
 
